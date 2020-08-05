@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jireva
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jireva.org
+  * I am jireva (https://keybase.io/jireva) on keybase.
+  * I have a public key ASCAT5IyXSXDhXylKBc0oGIjrNorz_rZLoa0SGSRtyTP7go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120804f92325d25c3857ca5281734a06223acda2bcffad92e86b4486491b724cfee0a",
+      "host": "keybase.io",
+      "kid": "0120804f92325d25c3857ca5281734a06223acda2bcffad92e86b4486491b724cfee0a",
+      "uid": "18287c8ff1b631c4bfc06cf06d53e319",
+      "username": "jireva"
+    },
+    "merkle_root": {
+      "ctime": 1596654544,
+      "hash": "aca265ef3142dc54fb40613b08a2fe94e6aeab124c3d47cd5675706f60b47c78712497a8efaed899cb61fb0143b19240aaa9ddb8a434b1e410be242b0eb2e7fb",
+      "hash_meta": "7ffb90c8be7d6ed8c7e6226e5ae98eb8955ab6f5092795cfb0af70efb47bc51e",
+      "seqno": 17194133
+    },
+    "service": {
+      "entropy": "uyNU50RkmNY1alF8zmP/ZJD4",
+      "hostname": "jireva.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1596654603,
+  "expire_in": 504576000,
+  "prev": "95ecacd90431399a6e95314f74c141f764633620b26af2f16c5d8d2da049af55",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggE+SMl0lw4V8pSgXNKBiI6zaK8/62S6GtEhkkbckz+4Kp3BheWxvYWTESpcCCsQgleys2QQxOZpulTFPdMFB92RjNiCyavLxbF2NLaBJr1XEIKKHfDCnl2fPXk9SJQ35nWFWT4psxmXc+zlU6p6zkODeAgHCo3NpZ8RACoVgoN/AVtVjBcpovdUtAiQPX9txjabZ6zpNuQRK+9H5edmb0LUkBMXbhoNK0JUv8Bk7fGNWyt450fxBHQ/+BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKaKMFNVltXZqh7bJ8dRHaJL/pbRJhOxFuQsKfCr7Ea9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jireva
+
+==================================================================
